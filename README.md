@@ -1,5 +1,5 @@
 # <h1 align="center">Ian Borges</h1>
-<h3 align="center"> Desenvolvedor Python </h3>
+<h3 align="center"> Analista de Dados </h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/ianpbsilva/" target="blank">
@@ -7,7 +7,7 @@
 
 
 
-- 🌱 Os meus estudos atuais estão concentrados em desenvolvimento back-end com **Python e Django**
+- 🌱 Os meus estudos atuais estão concentrados em **Python, SQL e PowerBI**
 
 - 💬 Tenho conhecimentos básicos nas tecnologias **JavaScript, HTML, e CSS**
 
